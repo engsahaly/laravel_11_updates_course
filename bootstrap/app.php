@@ -50,7 +50,7 @@ return Application::configure(basePath: dirname(__DIR__))
 
         $middleware->alias([
             'test' => TestMiddleware::class,
-            'auth2' => AuthMiddleware::class,
+            // 'auth2' => AuthMiddleware::class,
         ]);
     })
     ->withExceptions(function (Exceptions $exceptions) {
