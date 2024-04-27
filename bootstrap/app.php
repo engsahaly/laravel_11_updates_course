@@ -16,7 +16,7 @@ return Application::configure(basePath: dirname(__DIR__))
         apiPrefix: 'api/v1/',
         commands: __DIR__ . '/../routes/console.php',
         channels: __DIR__ . '/../routes/channels.php',
-        health: '/up',
+        health: '/testtt',
         then: function () {
             Route::prefix('admin')->middleware('web')
                 ->name('admin.')
