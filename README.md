@@ -1,5 +1,7 @@
 ## Laravel 11 Updates Course Repo
 
+<img src="https://img-c.udemycdn.com/course/750x422/6137137_3960.jpg"> 
+
 **Created By :** Mahmoud Anwar
 **Email :** Engsahaly@gmail.com
 
